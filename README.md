@@ -65,6 +65,7 @@ Some observations from the analysis:
 
 ## 📂 Project Structure
 
+```
 email-communication-analysis/
 │
 ├── notebooks/
@@ -73,7 +74,8 @@ email-communication-analysis/
 ├── requirements.txt
 ├── .gitignore
 
----
+
+```
 
 ## ⚠️ Note on Data
 
