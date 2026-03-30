@@ -1,0 +1,20 @@
+# Ignore data files (important for privacy)
+data/
+*.csv
+*.mbox
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venvs/
+env/
+
+# System files
+.DS_Store
+Thumbs.db
