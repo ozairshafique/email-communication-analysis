@@ -1,7 +1,8 @@
 # Ignore data files (important for privacy)
-data/
+data
 *.csv
 *.mbox
+
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
