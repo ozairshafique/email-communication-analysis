@@ -134,11 +134,11 @@ email-communication-analysis/
 ├── notebooks/
 │   └── email_analysis.ipynb
 ├── images/
-│   ├── email_activity_hour.png
-│   ├── email_activity_day.png
-│   ├── email_activity_month.png
+|   ├── email_heatmap.png
+│   ├── email_weekday_count.png
+│   ├── email_monthly_trends.png
 │   ├── email_subject_wordcloud.png
-│   └── email_domain.png
+│   └── top_email_domains.png
 ├── README.md
 ├── requirements.txt
 └── .gitignore
@@ -214,7 +214,7 @@ This project demonstrates how unstructured email data can be transformed into me
 
 ## 👤 Author
 
-Uzair Shaifque
+Uzair Shafique
 GitHub: https://github.com/ozairshafique
 
 ---
